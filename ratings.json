@@ -1,42 +1,107 @@
 [
-  {
-    "username": "discofalafel#5661",
-    "avatar": "discofalafel.png",
-    "content": "Übel geiles hosting. Vor allem die Website. Wenn das jemand auf der Endelon Seite liest: Hol dir schnell ein Server, denn die Leistung, der Service und der Support ist gut"
-  },  
-  {
-    "username": "♡ Rita ♡#5480",
-    "avatar": "rita.png",
-    "content": "Geiler Hosting Dienst, guter und schneller Support Liebe Grüße gehen an Two Much Masu & Dalk 😄 <br />(Und gute performance ❤️ )"
-  },
-  {
-    "username": "Steve_1507#0862",
-    "avatar": "steve_1507.png",
-    "content": "Beste Performance, man fühlt sich als wäre man bei einem Paid Hoster, aber sobald man in den Geldbeutel schaut, merkt man, dass noch alles da ist. Danke Endelon!"
-  },
-  {
-    "username": "thejocraftfan1580#0001",
-    "avatar": "thejocraftfan1580.gif",
-    "content": "Ich selber finde die Website sehr geil gestaltet und auch sehr hilfreich. Ich habe schon 3 sachen geholt und war richtig zufrieden damit und empfehle es weiteren Freunden oder anderen Usern weiter die auch es benötigen und somit dann besser klar kommen wie sie das nun machen, aber ich selber brauchte auch bisschen Hilfe, aber dank Masusniper habe ich das einfach hinbekommen.<br />Danke das es Endelon Hosting gibt und diese Kostenlose möglichkeit 😄"
-  },
-  {
-    "username": "Utopia__13#4229",
-    "avatar": "utopia__13.png",
-    "content": "Ich finde ihr habt die Qualität die selbst kostenpflichtige Hoster nicht oder nur sehr schwer aufbringen können. Es ist alles sehr übersichtlich gestaltet und der support ist immer eigentlich immer erreichbar. Dank euch eröffnen sich mir und bestimmt auch anderen kosten los ganz neue Möglichkeiten.<br /><br/>Danke❤️"
-  },
-  {
-    "username": "HABUB#7372",
-    "avatar": "habub.png",
-    "content": "Vielen Dank für die guten und Leistungs starken Minecraft  Server Genauso für die anderen Server wie Discord bots oder ähnliches ihr seid besser als der ein oder andere Paid Hoster und habt mehr Auswahl an Servern auf support anfragen bekommt man auch Fivem Server oder ähnliches ihr seid zu meinem Standard Hoster geworden Nitrado, aternos, Ploudos ist vergangenheit. Der support ist auch schnell zu erreichen und auch immer sehr freundlich dafür das sie das gratis machen und bei anderen die für support bezahlt werden kriegt man nicht mal ne Antwort auf seine frage❤️❤️"
-  },
-  {
-    "username": "RGBist#0122",
-    "avatar": "rgbist.png",
-    "content": "Ich habe mir vor kurzem einen Server für einen Python Bot geholt. Funktioniert einwandfrei. Endelon ist viel besser als manch anderer (kostenpflichtiger) Hoster. Ich kann es einfach nur empfehlen. Der Support ist auch nice. Sie sind effizient, schnell und höflich. 10/10"
-  },
-  {
-    "username": "dhaslwanter#6614",
-    "avatar": "dhaslwanter.png",
-    "content": "Einfach  der beste Hoster. Hatte jz schon zwei kleine Probleme und beide wurden extrem schnell behoben. Liebe einfach das Angebot und dass alles kostenlos ist."
-  }
+    {
+        "username": "gigelschwamm#4680",
+        "avatar": "gigelschwamm.png",
+        "content": "Hey, also ich bin jetzt hier auch schon so ca. 1 1/2 Jahre und ich muss echt sagen ich finds echt cool was ihr hier macht! 1. Ist es richtig ehrenhaft komplett kostenlose Gameserver einfach für jeden zur Verfügung zu stellen und 2. habt ihr ne echt nette Community und auch ein echt nettes Team. Man kann euch wirklich nur weiterempfehlen! Danke für alles!"
+    },
+    {
+        "username": "Zubam#4063",
+        "avatar": "zubam.png",
+        "content": "Endelon ist das beste Hosting überhaupt! Warum? Das kann ich euch sagen; Endelon vermietet Minecraftserver, Teamspeakserver, Discordbots + Runtime… Und noch mehr! Endelon macht es aber nicht für Geld, nein alles ist kostenlos! Und das Team ist so nett, man kann anfragen auf z.B. mehr RAM stellen und meist wird es genehmigt. Außerdem, alles ist gut übersichtlich und veränderbar. Also wenn es eine Sache gibt die ich zu sagen habe, ist es das ihr Endelon nutzen solltet!"
+    },
+    {
+        "username": "Steve_1507#0862",
+        "avatar": "steve_1507.png",
+        "content": "Masus, ich muss dir ein Lob aussprechen: Du schaffst es nicht nur, performante Server, die 24/7 und selbst mit intensiven Modpacks klarkommen, bereitzustellen, sondern auch, dies kostenlos zu tun. Soweit ich weiß, gibt es keinen vergleichlichen Serveranbieter."
+    },
+    {
+        "username": "» Joel#4461",
+        "avatar": "joel.png",
+        "content": "Ich habe mir gestern ein paar Server geholt und nach wenigen Sekunden konnte ich sie auch schon benutzen, die Leistung ist echt Top im Gegensatz zu anderem wo ich war, mein Musik Bot und mein Discord Bot laufen einwandfrei und lag frei die Musik Qualität ist so als würde man es auf Spotify oder sowas hören null Lags. Was ich ein bisschen Schade finde das Server schnell leer sind. Ich gebe euch 9/10 Sterne Und Respekt das du sowas auf die Beine stellen kannst Masus"
+    },
+    {
+        "username": "HABUB#7372",
+        "avatar": "habub.png",
+        "content": "Da ich Endelon Hosting jetzt schon etwas länger benutze auch das ein oder andere Projekt mit den Server gestartet habe und mir im Moment ein MC Server Netzwerk aufbaue und auch den ein oder anderen Fivem Server bei Endelon habe muss ich sagen ist das der beste Server Anbieter für free Hosting der auch den ein oder anderen Paid Hoster in den Schatten stellt also großes lob an Masusniper und das Team die so etwas möglich machen ❤️ und wenn ich könnte würde ich auch Werbung machen was nicht viel bringt da ich leider dafür keine Reichweite habe"
+    },
+    {
+        "username": "LightSeegurke 🐬#0996",
+        "avatar": "lightseegurke.png",
+        "content": "Ich finde Endelon Hosting ist einzigartig. Ich wollte mich für den freundlichen und schnellen Support, aber auch über das kostenlose hosten bedanken."
+    },
+    {
+        "username": "Speedo#1484",
+        "avatar": "speedo.png",
+        "content": "Seid ich von Masu auf Endelon angesprochen wurde, benutze ich nur diesen Anbieter. Die Server sind Top. Der Support ist auch immer schnell wenn es um Fragen oder Probleme geht. Ich habe euch schon vielen meiner Kumpels weiterempfohlen und nun finden wir euch alle gut😊 Vielen Dank für eure Leistungen 😁"
+    },
+    {
+        "username": "Cuddle_Monster🥺🧸#6969",
+        "avatar": "cuddle_monster.png",
+        "content": "Ich muss echt sagen Endelon ist der beste Free Hoster für Minecraft Server & Teamspeak Server etc, aber es fehlt etwas die Auswahl an Spielen, eine Auswahl für Ark Survival Evolved oder sowas in der Art wäre schon cool oder für DayZ, klar ich verstehe es ist Arbeit zu Programmieren usw aber eine größere Auswahl würde auch nicht schaden :)"
+    },
+    {
+        "username": "RealTarzan#2517",
+        "avatar": "realtarzan.png",
+        "content": "Extrem netter und schneller Support danke für Gratis Server❤️ einfach ehre"
+    },
+    {
+        "username": "〣│𝕋x𝕜𝕠𝕋x𝕔𝕙ツ#8082",
+        "avatar": "txkotxch.png",
+        "content": "Mega Nice es gibt so viel auswahl wie Discord bots , Minecraft server etc .. Sehr schneller Support und einfach Server gute . Es ist einfach der beste free hoster"
+    },
+    {
+        "username": "Ƒʉͫcͧкͭιͪηͣ dbxflame#6666",
+        "avatar": "dbxflame.png",
+        "content": "sehr schneller und guter support! weiter so!"
+    },
+    {
+        "username": "ℕ𝕣𝕨ℙlay#4580",
+        "avatar": "nrwplay.png",
+        "content": "Bester hoster der Welt 100/sternen krasse Performance usw. Danke danke danke liebes team"
+    },
+    {
+        "username": "TheEvilCrafter#7874",
+        "avatar": "theevilcrafter.gif",
+        "content": "Was endelon und @Masusniper angeht (und natürlich das ganze Team <3) kann man nur sprachlos sein. Die Leute machen hier echt krankes Zeug jeden einzelnen Tag, damit wir übelst gute Server jede Woche Freitag pünktlich um 15 Uhr bekommen können. Den Aufwand kann man nur schätzen, jeder der sowas nicht schätzen kann, soll sich bitte vergraben gehen. Ich könnte jetzt so viele tolle Dinge über Endelon sagen, da würde ich lange nicht fertig werden. Hier also in vereinfachter, verkürzter Version: Endelon ist das beste, was man so ziemlich überall finden könnte. Die Leute hier sind super freundlich, verstehen viel Spass und sind dazu auch noch (meistens xD) Kompetent wie nichts anderes. Man bekommt so richtig das Gefühl endlich einen Server gefunden zu haben, welcher schon fast ein fester Teil seines Lebens wird. Ihr seid hier alle zu gütig und meiner Meinung nach, schätzen die Leute hier das ganze manchmal zu wenig. Wer Endelon Hosting nicht kennt, verpasst etwas grosses! Kuss nochmal an alle vom Team und insbesondere an @Masusniper der such jeden Tag den Arsch aufreisst um uns hier etwas geiles zu ermöglichen"
+    },
+    {
+        "username": "discofalafel#5661",
+        "avatar": "discofalafel.png",
+        "content": "Übel geiles hosting. Vor allem die Website. Wenn das jemand auf der Endelon Seite liest: Hol dir schnell ein Server, denn die Leistung, der Service und der Support ist gut"
+    },    
+    {  
+        "username": "♡ Rita ♡#5480",
+        "avatar": "rita.png",
+        "content": "Geiler Hosting Dienst, guter und schneller Support Liebe Grüße gehen an Two Much Masu & Dalk 😄 <br />(Und gute performance ❤️ )"
+    },  
+    {  
+        "username": "Steve_1507#0862",
+        "avatar": "steve_1507.png",
+        "content": "Beste Performance, man fühlt sich als wäre man bei einem Paid Hoster, aber sobald man in den Geldbeutel schaut, merkt man, dass noch alles da ist. Danke Endelon!"
+    },  
+    {  
+        "username": "thejocraftfan1580#0001",
+        "avatar": "thejocraftfan1580.gif",
+        "content": "Ich selber finde die Website sehr geil gestaltet und auch sehr hilfreich. Ich habe schon 3 sachen geholt und war richtig zufrieden damit und empfehle es weiteren Freunden oder anderen Usern weiter die auch es benötigen und somit dann besser klar kommen wie sie das nun machen, aber ich selber brauchte auch bisschen Hilfe, aber dank Masusniper habe ich das einfach hinbekommen.<br />Danke das es Endelon Hosting gibt und diese Kostenlose möglichkeit 😄"
+    },  
+    {  
+        "username": "Utopia__13#4229",
+        "avatar": "utopia__13.png",
+        "content": "Ich finde ihr habt die Qualität die selbst kostenpflichtige Hoster nicht oder nur sehr schwer aufbringen können. Es ist alles sehr übersichtlich gestaltet und der support ist immer eigentlich immer erreichbar. Dank euch eröffnen sich mir und bestimmt auch anderen kosten los ganz neue Möglichkeiten.<br /><br/>Danke❤️"
+    },  
+    {  
+        "username": "HABUB#7372",
+        "avatar": "habub.png",
+        "content": "Vielen Dank für die guten und Leistungs starken Minecraft  Server Genauso für die anderen Server wie Discord bots oder ähnliches ihr seid besser als der ein oder andere Paid Hoster und habt mehr Auswahl an Servern auf support anfragen bekommt man auch Fivem Server oder ähnliches ihr seid zu meinem Standard Hoster geworden Nitrado, aternos, Ploudos ist vergangenheit. Der support ist auch schnell zu erreichen und auch immer sehr freundlich dafür das sie das gratis machen und bei anderen die für support bezahlt werden kriegt man nicht mal ne Antwort auf seine frage❤️❤️"
+    },  
+    {  
+        "username": "RGBist#0122",
+        "avatar": "rgbist.png",
+        "content": "Ich habe mir vor kurzem einen Server für einen Python Bot geholt. Funktioniert einwandfrei. Endelon ist viel besser als manch anderer (kostenpflichtiger) Hoster. Ich kann es einfach nur empfehlen. Der Support ist auch nice. Sie sind effizient, schnell und höflich. 10/10"
+    },  
+    {  
+        "username": "dhaslwanter#6614",
+        "avatar": "dhaslwanter.png",
+        "content": "Einfach  der beste Hoster. Hatte jz schon zwei kleine Probleme und beide wurden extrem schnell behoben. Liebe einfach das Angebot und dass alles kostenlos ist."
+    }
 ]
