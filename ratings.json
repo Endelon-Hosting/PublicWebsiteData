@@ -277,6 +277,13 @@
     },
     {
         "type": "google",
+        "username": "Scar",
+        "avatar": "scar.png",
+        "content": "guter hosting dienst liebe grüße",
+        "stars": 5
+    },
+    {
+        "type": "google",
         "username": "Damian Haslwanter",
         "avatar": "damian.png",
         "content": "",
