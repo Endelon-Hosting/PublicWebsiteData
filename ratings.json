@@ -330,5 +330,12 @@
         "avatar": "wucroemi.png",
         "content": "Toll einfach nur Toll.",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Muffin",
+        "avatar": "muffin.png",
+        "content": "Ziemlich gut sogar perfekt",
+        "stars": 5
     }
 ]
