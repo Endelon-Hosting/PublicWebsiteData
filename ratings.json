@@ -277,6 +277,13 @@
     },
     {
         "type": "google",
+        "username": "Damian Haslwanter",
+        "avatar": "damian.png",
+        "content": "",
+        "stars": 5
+    },
+    {
+        "type": "google",
         "username": "TheBluecrafter",
         "avatar": "thebluecrafter.png",
         "content": "1-A Hosting, keine Probleme",
