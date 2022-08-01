@@ -274,5 +274,12 @@
         "username":"NrwPlay#9999",
         "avatar": "nrwplay.png",
         "content": "SUper schnelller kompeteneter und einfach super support !!!"
+    },
+    {
+        "type": "google",
+        "username": "Test",
+        "avatar": "daniel.png",
+        "content": "Dies ist eine Test-Bewertung für Google-Bewertungen",
+        "stars": 0
     }
 ]
