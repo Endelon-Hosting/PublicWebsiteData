@@ -274,5 +274,12 @@
         "username":"NrwPlay#9999",
         "avatar": "nrwplay.png",
         "content": "SUper schnelller kompeteneter und einfach super support !!!"
+    },
+    {
+        "type": "google",
+        "username": "Tom Jäger",
+        "avatar": "tom.png",
+        "content": "Mega guter und extremer Netter Service. Der Support ist unglaublich nett und man findet nichts schlechtes an diesen Projekt.\n\nDanke an alle die da mitmachen\n:)",
+        "stars": 5
     }
 ]
