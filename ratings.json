@@ -358,5 +358,12 @@
         "avatar": "tombergman.png",
         "content": "Es ist ein guter Hoster es ist ein netter Support un der Owner ist auch ein netter Mensch und hilfsbereit",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Music4all. 3",
+        "avatar": "music4all.png",
+        "content": "Sehr tolle Services, kann ich nur empfehlen :)",
+        "stars": 5
     }
 ]
