@@ -337,5 +337,12 @@
         "avatar": "muffin.png",
         "content": "Ziemlich gut sogar perfekt",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Timong craft",
+        "avatar": "timongcraft.png",
+        "content": "Ich wollte nochmal sagen das Endelon-Hosting ein sehr gutes Hosting ist und es keinen besseren Free-Hoster gibt, die so viel Leistung und keine Werbung etc. haben.",
+        "stars": 5
     }
 ]
