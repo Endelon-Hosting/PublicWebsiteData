@@ -351,5 +351,12 @@
         "avatar": "zerokatze.png",
         "content": "Dieser Hoster einfach der beste. <br/>Der Supportwartezeit ist recht kurz und die Supporter sind freundlich, Höfflich",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Tom Bergman",
+        "avatar": "tombergman.png",
+        "content": "Es ist ein guter Hoster es ist ein netter Support un der Owner ist auch ein netter Mensch und hilfsbereit",
+        "stars": 5
     }
 ]
