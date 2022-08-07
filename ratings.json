@@ -365,5 +365,12 @@
         "avatar": "music4all.png",
         "content": "Sehr tolle Services, kann ich nur empfehlen :)",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "crazy boys - Gaming",
+        "avatar": "crazyboys.png",
+        "content": "sehr guter Kundenservice, keine Werbung",
+        "stars": 5
     }
 ]
