@@ -375,6 +375,13 @@
     },
     {
         "type": "google",
+        "username": "EinfachFox",
+        "avatar": "einfachfox.png",
+        "content": "Guter Support + Guter Hoster!",
+        "stars": 5
+    },
+    {
+        "type": "google",
         "username": "Simone Wutz",
         "avatar": "simonewutz.png",
         "content": "",
