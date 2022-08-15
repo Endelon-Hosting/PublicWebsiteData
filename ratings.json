@@ -372,5 +372,12 @@
         "avatar": "crazyboys.png",
         "content": "sehr guter Kundenservice, keine Werbung",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Jan Erdi",
+        "avatar": "janerdi.png",
+        "content": "",
+        "stars": 5
     }
 ]
