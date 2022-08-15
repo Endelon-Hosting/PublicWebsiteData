@@ -375,6 +375,13 @@
     },
     {
         "type": "google",
+        "username": "Simone Wutz",
+        "avatar": "simonewutz.png",
+        "content": "",
+        "stars": 5
+    },
+    {
+        "type": "google",
         "username": "Dervernichter334",
         "avatar": "dervernichter334.png",
         "content": "",
