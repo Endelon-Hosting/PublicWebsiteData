@@ -414,5 +414,12 @@
         "avatar": "janerdi.png",
         "content": "",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Bjarne Oppermann",
+        "avatar": "bjarneoppermann.png",
+        "content": "",
+        "stars": 5
     }
 ]
