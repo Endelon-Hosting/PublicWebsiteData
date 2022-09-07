@@ -466,6 +466,13 @@
     },
     {
         "type": "google",
+        "username": "Jonas Behr",
+        "avatar": "jonasbehr.png",
+        "content": "Es ist super und die Teammitglieder sind sehr freundlich. Auch das man gratis einen Server bekommt ist nicht selbst verständlich. Ich bedanke mich vielmals 😀",
+        "stars": 5
+    },
+    {
+        "type": "google",
         "username": "The_Gamer",
         "avatar": "the_gamer.png",
         "content": "",
