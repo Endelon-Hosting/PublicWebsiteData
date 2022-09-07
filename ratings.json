@@ -435,5 +435,12 @@
         "avatar": "angelafleischmann.png",
         "content": "",
         "stars": 4
+    },
+    {
+        "type": "google",
+        "username": "Carmen Baumgartner",
+        "avatar": "carmenbaumgartner.png",
+        "content": "",
+        "stars": 5
     }
 ]
