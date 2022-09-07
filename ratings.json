@@ -466,6 +466,13 @@
     },
     {
         "type": "google",
+        "username": "Wichtigster",
+        "avatar": "wichtigster.png",
+        "content": "",
+        "stars": 5
+    },
+    {
+        "type": "google",
         "username": "Techno Catza",
         "avatar": "technocatza.png",
         "content": "",
