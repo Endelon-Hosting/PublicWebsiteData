@@ -466,6 +466,13 @@
     },
     {
         "type": "google",
+        "username": "The_Gamer",
+        "avatar": "the_gamer.png",
+        "content": "",
+        "stars": 5
+    },
+    {
+        "type": "google",
         "username": "Wichtigster",
         "avatar": "wichtigster.png",
         "content": "",
