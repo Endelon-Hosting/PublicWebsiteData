@@ -505,5 +505,12 @@
         "avatar": "technocatza.png",
         "content": "",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Hugo",
+        "avatar": "hugo.png",
+        "content": "Endelon Hosting hat einen sehr netten Support , das Team macht ihre Arbeit sehr gut und die server sind auch laggfrei und leistungsstark . Ich bin froh das ich so einen guten Server Hoster gefunden habe",
+        "stars": 5
     }
 ]
