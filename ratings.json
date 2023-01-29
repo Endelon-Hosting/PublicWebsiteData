@@ -526,5 +526,12 @@
         "avatar": "hydramaster.png",
         "content": "Super Support",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Dustin Engel",
+        "avatar": "dustinengel.png",
+        "content": "Sehr Nettes Team und Guter support für späßchen immer zu haben und sehr schnelle bereitstellung",
+        "stars": 5
     }
 ]
