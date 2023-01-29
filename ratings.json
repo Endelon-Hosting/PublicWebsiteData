@@ -568,5 +568,12 @@
         "avatar": "floriankerd.png",
         "content": "",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Music4all. 3",
+        "avatar": "music4all.3.png",
+        "content": "",
+        "stars": 4
     }
 ]
