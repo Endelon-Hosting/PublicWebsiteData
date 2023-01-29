@@ -561,5 +561,12 @@
         "avatar": "velourship.png",
         "content": "Mega netter Server Host so wie Support. Sie melden sich direkt wenn was ist. Danke noch mal :D",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Florian Kerd",
+        "avatar": "floriankerd.png",
+        "content": "",
+        "stars": 5
     }
 ]
