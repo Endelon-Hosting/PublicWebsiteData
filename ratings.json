@@ -715,5 +715,12 @@
         "avatar": "tawaliv3.png",
         "content": "Schneller und netter Support",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Connor Lee",
+        "avatar": "connorlee.png",
+        "content": "",
+        "stars": 5
     }
 ]
