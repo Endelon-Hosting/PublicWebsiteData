@@ -673,5 +673,12 @@
         "avatar": "moritzdeiaco.png",
         "content": "Einfach nur bester Service. Mehr muss ich nicht sagen... 🤩\n(Edit): Super Support! 👍",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Magix Animations",
+        "avatar": "magixanimations.png",
+        "content": "Super Support, schnelle und kompetente Ansprechpartner und mega Service :)",
+        "stars": 5
     }
 ]
