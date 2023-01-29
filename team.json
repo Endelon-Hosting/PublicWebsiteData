@@ -6,23 +6,18 @@
     },
     {
         "name": "Luna F.",
-        "position": "Leitung & Sekretariat",
+        "position": "Stellv. Leitung",
         "avatar": "luna.png"
     },
     {
         "name": "Daniel B.",
-        "position": "Leitung & Entwicklung",
+        "position": "Stellv. Leitung & Entwicklung",
         "avatar": "daniel.png"
     },
     {
         "name": "Ole Sz.",
-        "position": "Moderation",
+        "position": "Entwicklung",
         "avatar": "ole.png"
-    },
-    {
-        "name": "Marcel H.",
-        "position": "Moderation",
-        "avatar": "marcelh.png"
     },
     {
         "name": "Alex B.",
@@ -31,12 +26,17 @@
     },
     {
         "name": "Moritz W.",
-        "position": "Supporter",
+        "position": "Moderation",
         "avatar": "wutzi.png"
     },
     {
         "name": "Janik F.",
-        "position": "Supporter",
+        "position": "Moderation",
         "avatar": "janik.png"
+    },
+    {
+        "name": "Joel K.",
+        "position": "Supporter",
+        "avatar": "joel.png"
     }
 ]
