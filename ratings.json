@@ -533,5 +533,12 @@
         "avatar": "dustinengel.png",
         "content": "Sehr Nettes Team und Guter support für späßchen immer zu haben und sehr schnelle bereitstellung",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Jan Kuhl",
+        "avatar": ".png",
+        "content": "jankuhl",
+        "stars": 5
     }
 ]
