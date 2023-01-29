@@ -729,5 +729,12 @@
         "avatar": "jesperrichert.png",
         "content": "Guter Hoster und besten Verhältnis",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Danny “Mr. Kogli” Raschke",
+        "avatar": "dannyraschke.png",
+        "content": "",
+        "stars": 5
     }
 ]
