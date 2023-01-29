@@ -603,5 +603,12 @@
         "avatar": "kruemel.png",
         "content": "Bester Server Hoster",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Ma Mo",
+        "avatar": "mamo.png",
+        "content": "Super Support, meine Website läuft, super Projekt!",
+        "stars": 5
     }
 ]
