@@ -638,5 +638,12 @@
         "avatar": "johannveit.png",
         "content": "Guter Support Und Schnelle Problem Lösung Einfach Super!!",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "saftman",
+        "avatar": "saftman.png",
+        "content": "",
+        "stars": 5
     }
 ]
