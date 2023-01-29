@@ -519,5 +519,12 @@
         "avatar": "öffifanyt.png",
         "content": "Ein sehr nettes Team und coole Bots! Schneller Support und komplett kostenlos!",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Hydra Master",
+        "avatar": "hydramaster.png",
+        "content": "Super Support",
+        "stars": 5
     }
 ]
