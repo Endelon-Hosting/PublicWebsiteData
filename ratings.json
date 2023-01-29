@@ -575,5 +575,12 @@
         "avatar": "music4all.3.png",
         "content": "",
         "stars": 4
+    },
+    {
+        "type": "google",
+        "username": "Johan lu",
+        "avatar": "johanlu.png",
+        "content": "Super Service nette Mitarbeiter und geht super schnell",
+        "stars": 5
     }
 ]
