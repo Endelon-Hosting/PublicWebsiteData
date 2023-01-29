@@ -540,5 +540,12 @@
         "avatar": ".png",
         "content": "jankuhl",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Sedrowow Chaos",
+        "avatar": "sedrowowchaos.png",
+        "content": "Super Service Support, diese haben sich sofort gekümmert und das auch noch makellos!",
+        "stars": 5
     }
 ]
