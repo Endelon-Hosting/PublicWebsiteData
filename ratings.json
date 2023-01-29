@@ -722,5 +722,12 @@
         "avatar": "connorlee.png",
         "content": "",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Jesper Richert",
+        "avatar": "jesperrichert.png",
+        "content": "Guter Hoster und besten Verhältnis",
+        "stars": 5
     }
 ]
