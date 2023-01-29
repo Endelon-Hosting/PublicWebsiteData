@@ -659,5 +659,12 @@
         "avatar": "timocopp.png",
         "content": "",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Iceboorg",
+        "avatar": "iceboorg.png",
+        "content": "Lieber Masulinchen und liebes Endelon Team,\n\nvielen Dank, dass ihr einen wunderbaren Hosting Service kostenlos zur Verfügung stellt. Ich schätze eure Arbeit sehr und bin dankbar für eure Unterstützung. Danke, dass ihr mir ermöglicht, meine Ideen online zu verwirklichen.\n\nMit herzlichen Grüßen,\nIceboorg",
+        "stars": 5
     }
 ]
