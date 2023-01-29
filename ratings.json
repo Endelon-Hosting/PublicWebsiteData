@@ -617,5 +617,12 @@
         "avatar": "theknight85.png",
         "content": "Guter Service und netter Discord-Server. Die Minecraft-Server sind gut und haben ftp, was sehr vorteilhaft ist. Einfach nur ehre, dass das alles umsonst ist.\nEin großes Danke",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Colin",
+        "avatar": "colin.png",
+        "content": "",
+        "stars": 5
     }
 ]
