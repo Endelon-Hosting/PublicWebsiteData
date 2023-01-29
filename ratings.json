@@ -680,5 +680,12 @@
         "avatar": "magixanimations.png",
         "content": "Super Support, schnelle und kompetente Ansprechpartner und mega Service :)",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "EntwicklerXXX",
+        "avatar": "entwicklerxxx.png",
+        "content": "Sehr gut",
+        "stars": 1
     }
 ]
