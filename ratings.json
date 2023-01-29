@@ -631,5 +631,12 @@
         "avatar": "anthonyesl.png",
         "content": "",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Johann Veit",
+        "avatar": "johannveit.png",
+        "content": "Guter Support Und Schnelle Problem Lösung Einfach Super!!",
+        "stars": 5
     }
 ]
