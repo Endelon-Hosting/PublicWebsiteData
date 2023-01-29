@@ -582,5 +582,12 @@
         "avatar": "johanlu.png",
         "content": "Super Service nette Mitarbeiter und geht super schnell",
         "stars": 5
+    },
+    {
+        "type": "google",
+        "username": "Kamikatze",
+        "avatar": "kamikatze.png",
+        "content": "Echt krass. Schneller Support und gute Server. Weiter so ^^",
+        "stars": 5
     }
 ]
